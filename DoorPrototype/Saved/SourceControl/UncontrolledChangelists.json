@@ -5,7 +5,15 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/lamat/Repositories/gdp-door-prototype/DoorPrototype/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+				"C:/Users/lamat/Repositories/gdp-door-prototype/DoorPrototype/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/lamat/Repositories/gdp-door-prototype/DoorPrototype/Content/Blueprints/BP_Pickup.uasset",
+				"C:/Users/lamat/Repositories/gdp-door-prototype/DoorPrototype/Content/Blueprints/BP_EquipmentData.uasset",
+				"C:/Users/lamat/Repositories/gdp-door-prototype/DoorPrototype/Content/Blueprints/BP_Equipment.uasset",
+				"C:/Users/lamat/Repositories/gdp-door-prototype/DoorPrototype/Content/__ExternalActors__/TopDown/Maps/TopDownMap/6/99/5GIQC4DQXIUCK2LLZVNXID.uasset",
+				"C:/Users/lamat/Repositories/gdp-door-prototype/DoorPrototype/Content/Blueprints/BP_AppearanceManager.uasset",
+				"C:/Users/lamat/Repositories/gdp-door-prototype/DoorPrototype/Content/TopDown/Blueprints/BP_TopDownCharacter_Child.uasset",
+				"C:/Users/lamat/Repositories/gdp-door-prototype/DoorPrototype/Content/Blueprints/BP_TopDownCharacter_Child.uasset",
+				"C:/Users/lamat/Repositories/gdp-door-prototype/DoorPrototype/Content/TopDown/Blueprints/BP_TopDownGameMode.uasset"
 			]
 		}
 	]
